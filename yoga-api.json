@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "sanskrit_name": "Navasana",
+        "english_name": "Boat Pose",
+        "procedure": [
+            "Lie on your back with your feet together and arms beside your body.",
+            "Take a deep breath in and as you exhale, lift your chest and feet off the ground, stretching your arms towards your feet.",
+            "Your eyes, fingers and toes should be in a line.",
+            "Feel the tension in your navel area as the abdominal muscles contract.",
+            "Keep breathing deeply and easily while maintaining the pose.",
+            "As you exhale, come back to the ground slowly and relax."
+        ],
+        "targets": [
+            "Core",
+            "Abdominal Muscle",
+            "Back",
+            "Spine"
+        ],
+        "benefits": [
+            "Strengthens the back and abdominal muscles",
+            "Tones the leg and arm muscles",
+            "Useful for people with hernia"
+        ],
+        "contraindications": [
+            "Do not practice this yoga pose if you have low blood pressure, severe headache, migraine, or if you have suffered from some chronic diseases or spinal disorders in the recent past.",
+            "Asthma and heart patients are advised to avoid this pose.",
+            "Women should avoid doing Boat pose (Naukasana) during pregnancy and during the first two days of the menstrual cycle."
+        ],
+        "created_at": "YYYY-MM-ddTHH:mm:ss.ss",
+        "updated_at": "YYYY-MM-ddTHH:mm:ss.ss",
+        "image_url": "",
+        "yt_videos": []
+    }
+]
