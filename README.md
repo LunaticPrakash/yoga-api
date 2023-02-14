@@ -21,6 +21,6 @@ In **Development**.
 |**image_url**|String|URL of the image of that particular Yoga Pose.|
 |**yt_videos**|Array of URLs(String)|List of URLs of the appropriate YouTube videos that explains about that particular Yoga Pose.|
 
-
+#### Note :- Got inspiration from <a href="https://github.com/rebeccaestes/yoga_api">rebeccaestes/yoga_api</a>
 
 ## Dev :- Prakash Gupta
