@@ -1,5 +1,18 @@
 [
     {
+        "id": 0,
+        "sanskrit_name": "",
+        "english_name": "",
+        "procedure": [],
+        "targets": [],
+        "benefits": [],
+        "contraindications": [],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
         "id": 1,
         "sanskrit_name": "Navasana",
         "english_name": "Boat Pose",
@@ -25,10 +38,199 @@
         "contraindications": [
             "Do not practice this yoga pose if you have low blood pressure, severe headache, migraine, or if you have suffered from some chronic diseases or spinal disorders in the recent past.",
             "Asthma and heart patients are advised to avoid this pose.",
-            "Women should avoid doing Boat pose (Naukasana) during pregnancy and during the first two days of the menstrual cycle."
+            "Women should avoid doing Boat pose (Naukasana) during pregnancy and during the first two days of the menstrual cycle.",
+            "Back or neck injury."
         ],
         "created_at": "2022-02-11T19:41:32",
         "updated_at": "2022-02-11T19:41:32",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 1,
+        "sanskrit_name": "Ardha Navasana",
+        "english_name": "Half-Boat Pose",
+        "procedure": [
+            "Sit on the mat with your knees bent and lean your torso back.",
+            "While keeping your knees bent, lift both feet until your legs are parallel to the floor and reach your arms toward the feet.",
+            "Stay in half boat pose for 30 seconds to 1 minute."
+        ],
+        "targets": [
+            "Core",
+            "Abdominal Muscle",
+            "Back",
+            "Spine"
+        ],
+        "benefits": [
+            "The half boat pose strengthens your abs, back, and thighs",
+            "It improves your core balance, improves digestion, and tones your whole body."
+        ],
+        "contraindications": [
+            "Do not practice this yoga pose if you have low blood pressure, severe headache, migraine, or if you have suffered from some chronic diseases or spinal disorders in the recent past.",
+            "Asthma and heart patients are advised to avoid this pose.",
+            "Women should avoid doing Boat pose (Naukasana) during pregnancy and during the first two days of the menstrual cycle.",
+            "Back or neck injury."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 2,
+        "sanskrit_name": "Dhanurasana",
+        "english_name": "Bow Pose",
+        "procedure": [
+            "Lie on your stomach with your feet apart, in line with your hips, and your arms by the side of your body.",
+            "Fold your knees, take your hands backward, and hold your ankles.",
+            "Breathe in, and lift your chest off the ground and pull your legs up and towards the back. ",
+            "Look straight ahead with a smile on your face.",
+            "Keep the pose stable while paying attention to your breath. Your body is now curved and as taut as a bow.",
+            "Continue to take long, deep breaths as you relax in this pose. But, bend only as far as your body permits you to. Do not overdo the stretch.",
+            "After 15 -20 seconds, as you exhale, gently bring your legs and chest to the ground. Release the ankles and relax."
+        ],
+        "targets": [
+            "Core",
+            "Abdominal Muscle",
+            "Back",
+            "Spine",
+            "Reproductive Organs",
+            "Chest",
+            "Neck"
+        ],
+        "benefits": [
+            "Strengthens the back and abdominal muscles",
+            "Stimulates the reproductive organs",
+            "Opens up the chest, neck, and shoulders",
+            "Tones the leg and arm muscles",
+            "Adds greater flexibility to the back",
+            "Alleviates stress and fatigue ",
+            "Relieves menstrual discomfort and constipation",
+            "Helps people with renal (kidney) disorders"
+        ],
+        "contraindications": [
+            "Ladies should avoid practicing this yoga pose during pregnancy. ",
+            "High or low blood pressure",
+            "Hernia",
+            "Neck injury",
+            "Pain in the lower back",
+            "Headache or migraine",
+            "Recent abdominal surgery"
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 3,
+        "sanskrit_name": "Setu Bandha Sarvangasana",
+        "english_name": "Bridge Pose",
+        "procedure": [
+            "To begin, lie on your back.",
+            "Fold your knees and keep your feet hip distance apart on the floor, 10-12 inches from your pelvis, with knees and ankles in a straight line.",
+            "Keep your arms beside your body, palms facing down.",
+            "Inhaling, slowly lift your lower back, middle back and upper back off the floor; gently roll in the shoulders; touch the chest to the chin without bringing the chin down, supporting your weight with your shoulders, arms and feet. Feel your bottom firm up in this pose. Both the thighs are parallel to each other and to the floor.",
+            "If you wish, you could interlace the fingers and push the hands on the floor to lift the torso a little more up, or you could support your back with your palms.",
+            "Keep breathing easily.",
+            "Hold the posture for a minute or two and exhale as you gently release this yoga pose."
+        ],
+        "targets": [
+            "Core",
+            "Abdominal Muscle",
+            "Back",
+            "Spine",
+            "Neck",
+            "Lungs"
+        ],
+        "benefits": [
+            "Strengthens the back muscles",
+            "Relieves the tired back instantaneously",
+            "Gives a good stretch to the chest, neck and spine",
+            "Calms the brain, reducing anxiety, stress and depression",
+            "Opens up the lungs and reduces thyroid problems",
+            "Helps improve digestion",
+            "Helps relieve the symptoms of menopause and menstrual pain",
+            "Helpful in asthma, high blood pressure, osteoporosis, and sinusitis"
+        ],
+        "contraindications": [
+            "Avoid doing this pose if you are suffering from neck and back injuries."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 4,
+        "sanskrit_name": "Baddha Konasana",
+        "english_name": "Butterfly Pose",
+        "procedure": [
+            "Sit with your spine erect and legs spread straight out.",
+            "Now bend your knees and bring your feet towards the pelvis. The soles of your feet should touch each other.",
+            "Grab your feet tightly with your hands. You may place the hands underneath the feet for support.",
+            "Make an effort to bring the heels as close to the genitals as possible.",
+            "Take a deep breath in. Breathing out, press the thighs and knees downward towards the floor. Make a gentle effort to keep pressing them downward.",
+            "Now start flapping both the legs up and down like the wings of a butterfly. Start slow and gradually increase the speed. Keep breathing normally throughout.",
+            "Fly higher and higher, as fast as you comfortably can. Slow down and then stop. Take a deep breath in and as you exhale, bend forward, keeping the chin up and spine erect.",
+            "Press your elbows on the thighs or on the knees, pushing the knees and thighs closer to the floor.",
+            "Feel the stretch in the inner thighs and take long, deep breaths, relaxing the muscles more and more.",
+            "Take a deep breath in and bring the torso up.",
+            "As you exhale, gently release the posture. Straighten the legs out in front of you and relax."
+        ],
+        "targets": [
+            "Thighs",
+            "Knees",
+            "Groins",
+            "Hip"
+        ],
+        "benefits": [
+            "A good stretch for the inner thighs, groins and knees, improving flexibility in the groin and hip region",
+            "Helps in intestine and bowel movement",
+            "Removes fatigue from long hours of standing and walking",
+            "Offers relief from menstrual discomfort and menopause symptoms",
+            "Helps in smooth delivery if practiced regularly until late pregnancy"
+        ],
+        "contraindications": [
+            "If you are suffering from groin or knee injury, make sure you keep a blanket under the outer thighs for support.",
+            "Also, sciatica patients should either completely avoid the pose or sit on a cushion to raise the hips.",
+            "If you have any lower-back disorders, do the posture only while keeping the spine erect. Avoid rounding up the spine by bending forward."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 5,
+        "sanskrit_name": "Ustrasana",
+        "english_name": "Camel Pose",
+        "procedure": [
+            "Kneel on the yoga mat and place your hands on the hips.",
+            "Your knees should be in line with the shoulders and the sole of your feet should be facing the ceiling.",
+            "As you inhale, draw in your tail-bone towards the pubis as if being pulled from the navel.",
+            "Simultaneously, arch your back and slide your palms over your feet till the arms are straight.",
+            "Do not strain or flex your neck but keep it in a neutral position.",
+            "Stay in this posture for a couple of breaths.",
+            "Breathe out and slowly come back to the initial pose. Withdraw your hands and bring them back to your hips as you straighten up."
+        ],
+        "targets": [
+            "Back",
+            "Spine",
+            "Shoulders"
+        ],
+        "benefits": [
+            "Improves digestion.Stretches and opens the front of the body. It also strengthens the back and shoulders.",
+            "Relieves the body of lower back ache.",
+            "Improves flexibility of the spine and also improves posture.",
+            "Helps overcome menstrual discomfort."
+        ],
+        "contraindications": [
+            "If you have any back injury or neck injury, you should avoid this pose",
+            "High or Low blood pressure patient should also avoid this Yoga pose."
+        ],
+        "created_at": "",
+        "updated_at": "",
         "image_url": "",
         "yt_videos": []
     }
