@@ -13,7 +13,7 @@
         "yt_videos": []
     },
     {
-        "id": 1,
+        "id": 0,
         "sanskrit_name": "Navasana",
         "english_name": "Boat Pose",
         "procedure": [
@@ -228,6 +228,347 @@
         "contraindications": [
             "If you have any back injury or neck injury, you should avoid this pose",
             "High or Low blood pressure patient should also avoid this Yoga pose."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 6,
+        "sanskrit_name": "Marjaryasana",
+        "english_name": "Cat Pose",
+        "procedure": [
+            "Get down onto your hands and knees, placing each hand directly under its shoulder and each knee under its hip. Point your fingers up to the top of your mat.",
+            "Relax your head and neck into a neutral position, looking downward.",
+            "Move first into Cow Pose by breathing in and relaxing your belly toward the floor.",
+            "Visualize your breath moving into your lungs and along your back while you lift your chin and chest and look up to the ceiling. Hold for a few seconds.",
+            "Now gently move into Cat Pose by exhaling while you pull your belly in toward your spine",
+            "Round your back and allow your head and neck to relax back downward.",
+            "Visualize your breath travelling out of your body along your spine and out your mouth and nose",
+            "Inhale again, transitioning into Cow pose.",
+            "Exhale again, transitioning into Cat pose."
+        ],
+        "targets": [
+            "Back",
+            "Spine",
+            "Abdominal Muscle",
+            "Core"
+        ],
+        "benefits": [
+            "Helps provide sturdiness and overall durability to your spinal column thus improving your posture.",
+            "Stretches our your back and torso while relieving tension in your lower back.",
+            "Helps to regulate blood circulation throughout your body.",
+            "The movements in the asana massage your digestive organs and activate them. As a result, the process of digestion is improved.",
+            "For women, the asana can soothe menstrual cramps and stiffness."
+        ],
+        "contraindications": [
+            "Do not perform this cat stretch yoga if pregnant",
+            "Marjariasana should be avoided by those with knee, back or neck pain"
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 7,
+        "sanskrit_name": "Bitilasana",
+        "english_name": "Cow Pose",
+        "procedure": [
+            "To come into Cow pose, start from all fours in a tabletop position. Your knees under your hips and wrists under your shoulders or slightly forwards of them.",
+            "Spread your fingers, root down through the base of the fingers and press your fingers on the mat.",
+            "On an inhalation, lower the belly, lift your chest, tailbone pointing up and look up.",
+            "Exhale, come back into your neutral ‘tabletop’ position."
+        ],
+        "targets": [
+            "Back",
+            "Spine",
+            "Abdominal Muscle",
+            "Core"
+        ],
+        "benefits": [
+            "Stretches the front of the torso and neck.",
+            "Gently massages the spine, increasing mobility.",
+            "Helps to increase the blood circulation throughout your body.",
+            "The movements in the asana massage your digestive organs and activate them. As a result, the process of digestion is improved."
+        ],
+        "contraindications": [
+            "In severe neck pain or injuries avoid this asana.",
+            "Bitilasana should be avoided by those with knee, back or neck pain"
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 8,
+        "sanskrit_name": "Utkatasana",
+        "english_name": "Chair Pose",
+        "procedure": [
+            "Stand erect with your feet slightly apart.",
+            "Stretch your hands to the front with palms facing downwards. Do not bend your elbows.",
+            "Bend the knees and gently push your pelvis down as if you are sitting in an imaginary chair.",
+            "Be comfortable or at least try to be! To get a better feel of the Chair Pose, imagine reading a newspaper or typing on a laptop as you remain seated.",
+            "Ensure that you keep your hands parallel to the ground.",
+            "Sink deeper into the chair by gradually going down but ensure that your knees don’t go beyond your toes.",
+            "Keep going down slowly and then sit down in Sukhasana (cross-legged posture). If you want, you may lie down on your back and relax."
+        ],
+        "targets": [
+            "Spine",
+            "Hip",
+            "Thighs",
+            "Legs",
+            "Knees",
+            "Ankle"
+        ],
+        "benefits": [
+            "Helps strengthen the lower back and torso",
+            "Tones the thigh, ankle, leg and knee muscles",
+            "Holding the chair pose can help improve stamina and your ability to hold yoga poses for longer.",
+            "Chair pose requires you to stabilize your lower body and can help you achieve better balance and posture."
+        ],
+        "contraindications": [
+            "Do not practice this yoga posture if you have chronic knee pain, hips, arthritis, sprained your ankle; any knee problem or damaged ligaments; headache or insomnia (sleeplessness).",
+            "Take special care and proceed gently with this yoga posture during menstruation or if you have pain in the lower back."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 9,
+        "sanskrit_name": "Balasana",
+        "english_name": "Child's Pose",
+        "procedure": [
+            "Sit on your knees on the yoga mats i.e. Vajrasana. In this case, rest your upper body on the thighs.",
+            "Keep both knees of your feet sticking to each other or at a short distance from each other and keep the waist perfectly straight.",
+            "Now take a deep breath and tilt the upper body towards the front. ",
+            "our hands should be adjacent to your feet and keep your hands to back direction just near to heels with palms facing up",
+            "After coming in this posture, slowly bring your chest by pressing towards the thighs. Your chest should touch both thighs.",
+            "To get out of this easy, first, bring your palms under the shoulder and slowly raise your upper body and return to the previous position and breathe on the ankles. Perform all these actions with ease."
+        ],
+        "targets": [
+            "Spine",
+            "Back",
+            "Hip",
+            "Thighs",
+            "Ankle"
+        ],
+        "benefits": [
+            "It stretches your lower back and relaxes the spine.",
+            "It strengthens and stretches your thighs, ankles and muscle of hips.",
+            "While doing Balasana yoga asana, there is pressure on your stomach and intestines which also enhances the digestive process."
+        ],
+        "contraindications": [
+            "Avoid this Asana in knee injury, joint pain, or high blood pressure problem.",
+            "Pregnant women do not perform this Asana."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 10,
+        "sanskrit_name": "Savasana",
+        "english_name": "Corpse Pose",
+        "procedure": [
+            "Lie flat on your back, preferably without any props or cushions. Use small pillow below your neck if absolutely required. Close your eyes.",
+            "Keep your legs comfortable apart and let your feet and knees relax completely, toes facing to the sides.",
+            "Place your arms alongside, yet a little spread apart from your body. Leave your palms open, facing upward.",
+            "Taking your attention to different body parts one by one, slowly relax your entire body.",
+            "After some time, about 10-20minutes when you feel fully relaxed, keeping your eyes closed, slowly roll onto your right side. Lie in that position for a minute or so. Then, taking the support of your right hand, gently sit up into a seated pose such as Sukhasana (Easy Pose).",
+            "Keep your eyes closed and take a few deep breaths in and out as you gradually become aware of your environment and the body. When you feel complete, slowly and gently open your eyes."
+        ],
+        "targets": [
+            "Each part of body at celullar level"
+        ],
+        "benefits": [
+            "This posture brings a deep, meditative state of rest, which may help in the repair of tissues and cells, and in releasing stress. It also gives time for the yoga workout to sink in at a deeper level.",
+            "This posture leaves you in a state of rejuvenation. It is the perfect way to end a yoga session, particularly if it has been a fast-paced one.",
+            "It helps reduce blood pressure, anxiety, and insomnia.",
+            "This is an excellent way to ground the body and reduce the Vata dosha(imbalance of the air element) in the body."
+        ],
+        "contraindications": [
+            "None (unless your doctor has advised you, for some medical reason, to avoid lying on your back)."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 11,
+        "sanskrit_name": "Bakasana",
+        "english_name": "Crow Pose",
+        "procedure": [
+            "Place your palms firmly on the mat about shoulder-width apart.",
+            "Fix your gaze straight ahead.",
+            "Lift your hips up and shift your weight forward.",
+            "Place your knees on your triceps.",
+            "Lift one foot off the ground and then the other.",
+            "Bring your feet up towards your bum and hold the pose.",
+            "Put your feet on the floor and shift your weight back."
+        ],
+        "targets": [
+            "Wrists",
+            "Arms",
+            "Abdominal Muscle",
+            "Shoulders",
+            "Core"
+        ],
+        "benefits": [
+            "Regular practice of this pose will increase mental and physical strength.",
+            "Helps in to make your body more flexible.",
+            "Practicing this posture on a daily routine helps you in strengthening your forearms, wrists, and shoulders.",
+            "Balances nervous system and strengthens the core."
+        ],
+        "contraindications": [
+            "Be extra careful if you have shoulders injury or hamstrings while attempting this pose.",
+            "People who suffer from any of this condition must avoid practicing Bakasana: recent wrist or shoulder injury, heart problems, carpal tunnel syndrome or cerebral thrombosis."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 12,
+        "sanskrit_name": "Ardha Pincha Mayurasana",
+        "english_name": "Dolphin Pose",
+        "procedure": [
+            "Start the Asana by getting down on your knees and hands.",
+            "Keep your forearms on the floor; ensure that your elbows and shoulders are in the parallel line.",
+            "Now raise your spine (back) and buttocks as you tuck your toes and keep your legs straight.",
+            "Make sure that, your shoulder blades should be firm and into your ribs. Now release (free) your neck by raising your shoulders away from ears.",
+            "Let the head and neck hang freely from the shoulders; the forehead can rest on the floor.",
+            "To release: bend the knees and lower the hips back to Table pose, or come all the way down to child pose."
+        ],
+        "targets": [
+            "Upper Body",
+            "Shoulders",
+            "Neck",
+            "Arms",
+            "Legs",
+            "Spine"
+        ],
+        "benefits": [
+            "Ardha Pincha Mayurasana calms your mind, and relieving depression.",
+            "It stretches shoulder, aches of the feet, Claves and hamstrings.",
+            "Strengthens your arms and legs.",
+            "Dolphin Pose helps to stimulate the reproductive organs, relieve menstrual discomfort, and reduce the symptoms of menopause.",
+            "Stimulates the digestive organs and also improves digestion.",
+            "It lengthens the spine, stretches the hamstrings, builds upper body strength, and stimulates the nervous system.",
+            "The practice of this asana increases the supply of blood towards the head"
+        ],
+        "contraindications": [
+            "Avoid this pose in neck or shoulder injury.",
+            "Do not practice in case of a herniated disk or an injury in the lower back."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 13,
+        "sanskrit_name": "Adho Mukha Svanasana",
+        "english_name": "Downward-Facing Dog",
+        "procedure": [
+            "Come onto your fours. Form a table such that your back forms the table top and your hands and feet form the legs of the table.",
+            "As you breath out lift the hips up, straightening the knees and elbows, form an inverted V-shape with the body.",
+            "Hands are shoulder width apart, feet are hip width apart and parallel to each other. Toes point straight ahead.",
+            "Press your hands into the ground. Widen through the shoulder blades. Keep the neck lengthened by touching the ears to the inner arms.",
+            "Hold the downward dog pose and take long deep breaths. Look towards the navel.",
+            "Exhale. Bend the knees, return to table pose. Relax."
+        ],
+        "targets": [
+            "Upper Body",
+            "Shoulders",
+            "Neck",
+            "Arms",
+            "Legs",
+            "Spine"
+        ],
+        "benefits": [
+            "It energizes and rejuvenates the body",
+            "t lengthens the spine, strengthens the muscles of the chest increasing lung capacity",
+            "t brings strength throughout the body especially the arms, shoulders, legs, feet",
+            "It increases circulation to the brain"
+        ],
+        "contraindications": [
+            "Avoid doing this asana if you suffer from high blood pressure, Carpel tunnel syndrome, detached eye retina, weak eye capillaries, dislocated shoulder / shoulder injury or diarrhea."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 14,
+        "sanskrit_name": "Garudasana",
+        "english_name": "Eagle Pose",
+        "procedure": [
+            "Stand straight on both feet. Raise the right leg and wrap it around the left leg",
+            "The right thigh should be over the left thigh and the right feet will touch the calf muscles from behind",
+            "Similarly wrap the right hand around the left hand & bring them closer to the face.",
+            "Now place the palms together to resemble the beak of an eagle.",
+            "Try to maintain the balance and slowly bend the left leg and lower the body until right toes touch the ground.",
+            "Focus the eyesight on the tips of the fingers & try to remain in this pose for long as you can maintain the balance.",
+            "Now straighten the left leg and unwrap the right leg. Also release the right arm and come to normal standing position,",
+            "Relax for sometime and repeat the same process."
+        ],
+        "targets": [
+            "Arms",
+            "Legs",
+            "Ankle"
+        ],
+        "benefits": [
+            "It improves the flexibility of the arms and legs.",
+            "It can loosen the joints of the legs",
+            "It alleviates sciatica and rheumatism in the leg joints."
+        ],
+        "contraindications": [
+            "You should not do Eagle Pose if you have a knee, elbow, wrist, or shoulder injury."
+        ],
+        "created_at": "",
+        "updated_at": "",
+        "image_url": "",
+        "yt_videos": []
+    },
+    {
+        "id": 15,
+        "sanskrit_name": "Utthita Hasta Padangusthasana",
+        "english_name": "Extended Hand to Toe",
+        "procedure": [
+            "Stand straight with your feet together and relax your entire body.",
+            "Concentrate on a fixed point in front of you, keeping your head straight.",
+            "Now, bend your right knee and bring your thigh as close to your chest as possible.",
+            "Take the hold of the big toe of the right foot by sliding your right arm around the outside of the bent right knee. Make sure that you do not strain the leg muscles.",
+            "Once you have held your toe, straighten your right leg in front of your body.",
+            "With the left arm, try and balance the body. You can perform jnana mudra with your left hand. Jnana mudra is a hand pose where you tuck the tip of the index finger under the tip of the thumb, keeping the remaining three fingers lightly extended.",
+            "Hold the final leg position for as long as you feel comfortable.",
+            "While releasing, bend the knee first, then release the toe and slowly lower your foot to the floor.",
+            "Relax the arms before repeating on the other side."
+        ],
+        "targets": [
+            "Hip",
+            "Legs",
+            "Ankle"
+        ],
+        "benefits": [
+            "This asana helps in coordinating the muscular and nervous balance.",
+            "This pose helps in strengthening and toning the hips and leg muscles.",
+            "This asana strengthens the hamstring and adductor muscle of the hips.",
+            "It also acts as a good hip opening exercise thus providing a good range of motion and blood circulation.",
+            "This asana helps in improving the balance and strength of the ankles as the entire body is stabilised on one leg."
+        ],
+        "contraindications": [
+            "Avoid this pose if you have knee problems or the pose causes knee pain",
+            "Skip this pose if you have an injury to your feet, hips, legs, knees, pelvis, or ankles or have recently had surgery involving any of these areas"
         ],
         "created_at": "",
         "updated_at": "",
