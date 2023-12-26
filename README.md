@@ -5,7 +5,7 @@ Might be the only information rich API for Yoga Poses.
 In **Development**.
 
 ## Example of a single JSON Object from API :-
-<img src="https://user-images.githubusercontent.com/56812557/218263082-a4dcda78-e571-4f99-b690-6896a7b4ae23.png" alt="Login Page" width="100%" height="100%" />
+<img src="https://github.com/LunaticPrakash/yoga-api/assets/56812557/185fe8cb-2128-4bc0-8c67-7cbd2e8da24d" alt="Login Page" width="100%" height="100%" />
 
 |Parameters|Type|Description|
 |--- |--- |--- |
