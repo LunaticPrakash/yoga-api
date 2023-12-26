@@ -607,10 +607,25 @@
     "id": 18,
     "sanskrit_name": "Ardha Chandrasana",
     "english_name": "Half-Moon",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Begin this yoga posture by standing straight in the Tadasana or the mountain pose. Place your feet apart from each other while keeping them in a parallel position to the outer edges.",
+      "Take a step forward with your left leg. Bend the left knee and stretch the right leg backward fully. Place the right toes and knee on the floor. To get the balance, place the palms on the floor.",
+      "Keep the torso and head straight. Take a couple of deep breaths. Inhale and slowly raise the arms. Press the palms together and place them before the chest in.Anjali Mudra. Take a couple of deep breaths.",
+      "Inhale and raise the arms over the head without releasing Anjali Mudra. Bend the upper torso further back by simultaneously bending the arms back to the convenient maximum level. Ensure that arms are in Anjali Mudra. The arms, back, and the right leg should form a curve like a half-moon. Breath slowly.",
+      "Keep the position as long as it is comfortable. After releasing the pose, go to Corpse Pose for one or two minutes. Then repeat the steps by changing the legs."
+    ],
+    "target_body_parts": ["Thighs", "Core", "Lower Body", "Abdominal Muscle"],
+    "contraindications": [
+      "Pregnancy",
+      "Menstrual Cycle",
+      "High Blood Pressure Issues",
+      "Hernia"
+    ],
+    "benefits": [
+      "Strengthens your thigh muscles, pelvis, calves, and ankles, core, the entire lower body",
+      "It might have some enhancing effects to help in healthy blood circulation, a well-regulated and healthy digestive system, and constipation relief. ",
+      "It might be beneficial for adrenal gland regulation and keeping balance on both sides of the body."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -620,10 +635,28 @@
     "id": 19,
     "sanskrit_name": "Adho Mukha Vrksasana",
     "english_name": "Handstand",
-    "procedure": [],
+    "procedure": [
+      "To do this, start in Tadasana facing the wall. Now get on all fours onto the ground. Ensure that you are away from the wall by a span of one hand length. Place the palms shoulder-width apart and completely stretch out.",
+      "Place the hands so that the middle finger is towards the wall and all the other fingers are stretched out completely.",
+      "Move your legs back to about half of the mat. This should resemble the downward dog pose. The feet should be close to the hands and about 1 meter away from the hands. From this position, kick one leg up and then follow it up with the other after gaining momentum. Take the support of the wall to practice balance.",
+      "Once you feel confident, move one foot away from the wall and then both. After you have practised this, try this out from the wall, probably at the centre of the room. While doing the yoga handstand, make sure to keep the legs and arms straight, toes dorsiflexed, and the neck and head relaxed.",
+      "To release from this position, breathe slowly and deeply. Bring down the limbs one at a time and then back to the downward dog pose and back to Tadasana."
+    ],
     "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "contraindications": [
+      "Pregnancy",
+      "Blood Pressure Issues",
+      "Heart Patients",
+      "Shoulder Injury",
+      "Wrist Pain"
+    ],
+    "benefits": [
+      "Boosts breathing capacity as it fully expands the chest.",
+      "Strengthens the hand, arms, wrist, and shoulder muscles.",
+      "Stretches the abdominal muscles and boosts digestion.",
+      "Improves the balance and coordination of the body.",
+      "Improves cardiovascular endurance and activates the baroreceptors in the carotid arteries."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
