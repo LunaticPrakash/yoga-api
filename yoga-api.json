@@ -642,7 +642,7 @@
       "Once you feel confident, move one foot away from the wall and then both. After you have practised this, try this out from the wall, probably at the centre of the room. While doing the yoga handstand, make sure to keep the legs and arms straight, toes dorsiflexed, and the neck and head relaxed.",
       "To release from this position, breathe slowly and deeply. Bring down the limbs one at a time and then back to the downward dog pose and back to Tadasana."
     ],
-    "target_body_parts": [],
+    "target_body_parts": ["Shoulders", "Core", "Legs"],
     "contraindications": [
       "Pregnancy",
       "Blood Pressure Issues",
@@ -666,10 +666,28 @@
     "id": 20,
     "sanskrit_name": "Anjaneyasana",
     "english_name": "Low Lunge",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "First, stand in Tadasana. In this pose, your body is in a straight, aligned position.",
+      "Next, stretch your left leg back fully with the lower left leg (part of the left leg below the knee) touching the floor.",
+      "Bend your right leg at the knee and ensure the right foot is placed in front of the left foot. The legs should be placed at a distance that avoids wobbling legs.",
+      "Next, stretch your arms over your head in the namaskar position.",
+      "This asana depicts lord hanuman, the son of Anjani; hence it is called Anjaneyasana.",
+      "Breathe normally and hold this position for 3-5 minutes.",
+      "Breathe out and return to the original position.",
+      "Repeat the above steps with alternate legs."
+    ],
+    "target_body_parts": ["Glutes", "Legs", "Shoulders", "Core", "Lower Body"],
+    "contraindications": [
+      "Knee Injury",
+      "High Blood Pressure Issues",
+      "Neck Injury"
+    ],
+    "benefits": [
+      "It opens up your shoulders, lungs, and chest.",
+      "Low Lunge Pose helps you improve your balance.",
+      "Low Lunge Pose stimulates the digestive and reproductive organs.",
+      "If you practice this asana regularly, your body will be toned and energized."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -678,11 +696,27 @@
   {
     "id": 21,
     "sanskrit_name": "Supta Kapotasana",
-    "english_name": "Pigeon",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "english_name": "Reclining Pigeon",
+    "procedure": [
+      "Lie down on your back with bent knees and feet on the floor.",
+      "Lift the right foot and place the right ankle on the left thigh near the knee.",
+      "Thread your right arm between the legs.",
+      "Clasp right hand with the left around the left shin.",
+      "Bring the left knee closer to the chest lifting the left foot off the floor.",
+      "Set your gaze towards the ceiling.",
+      "Exhale and feel the stretch around the lower hip.",
+      "Hold the pose for up to 3 breaths then release the pose in reverse order.",
+      "Repeat these steps keeping the right ankle over the left thigh.",
+      "Once done on both sides, relax lying on the floor."
+    ],
+    "target_body_parts": ["Hips", "Thighs", "Lower Back", "Digestive Organs"],
+    "contraindications": ["Knee Injury", "Pregnancy", "Hips Injury"],
+    "benefits": [
+      "It stretches the hips.",
+      "It strengthens the thighs.",
+      "It provides flexible lower back.",
+      "It provides better digestion."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -691,11 +725,37 @@
   {
     "id": 22,
     "sanskrit_name": "Eka Pada Rajakapotasana",
-    "english_name": "King Pigeon",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "english_name": "One-legged Pigeon Pose",
+    "procedure": [
+      "Sit in Dandasana (Staff Pose). Bend your right knee and place your foot on the floor just in front of your right sitting bone so that your shin is approximately perpendicular to the floor.",
+      "Shift slightly to the right and swing your left leg straight back behind your torso.",
+      "Place your hands on the floor in front of you for support as you adjust your back leg so that your left leg is fully extended, with the front of the leg and top of the foot on the floor.",
+      "Bend your left knee and raise the shin approximately perpendicular to the floor.",
+      "Balance your weight on your right foot and left knee. To stabilize your position, push your right knee forward until it protrudes slightly beyond your toes.",
+      "Inhale as you lift your right arm up and reach back.  Exhale and take the left foot in your hand.  Then do the same with your left arm. Holding the foot firmly, lift your chest and drop your head back toward the sole of your left foot. Keep your arms toward the midline of your body and your elbows reaching toward the ceiling.",
+      "Hold for about 15 to 30 seconds, breathing as smoothly as possible.",
+      "Exhale and release your foot, bringing the leg back to the floor. Repeat steps 1 through 4 on the opposite side."
+    ],
+    "target_body_parts": [
+      "Thighs",
+      "Glutes",
+      "Reproductive Organs",
+      "Lower Back",
+      "Hips"
+    ],
+    "contraindications": [
+      "Knee Injury",
+      "Ankle Injury",
+      "Pregnancy",
+      "Back Injury"
+    ],
+    "benefits": [
+      "Practicing this asana regularly opens the hip joint and stretches a few body parts including, thighs, glutes and piriformis muscles.",
+      "It improves the functioning of the urinary and reproductive system.",
+      "It increases the flexibility of the hip and also stimulates the internal organs.",
+      "It reduces sciatic and lower back pain.",
+      "It improves posture, alignment, and overall suppleness."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -705,10 +765,24 @@
     "id": 23,
     "sanskrit_name": "Phalakasana",
     "english_name": "Plank",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Starting in Tabletop Pose, fingers spread, shoulders over your wrists.",
+      "Extend your left & right leg out one-by-one, tucking your toes under.",
+      "You should be in a high push up position and your body should be in one straight line, from the crown of your head to your heels.",
+      "Push the floor away from you, slide your shoulder blades down your spine, and pull your core in to meet your back body.",
+      "Engage your core, thighs, and tuck your tailbone.",
+      "Gaze gently at the floor slightly in front of you and stay here for 5 breaths, or for as long as you can."
+    ],
+    "target_body_parts": ["Arms", "Core", "Thighs", "Abdominal Muscle"],
+    "contraindications": ["Wrist Injury", "Shoulder Injury", "Back Injury"],
+    "benefits": [
+      "Strengthens the shoulders, neck, upper arms, forearms, wrists, spine, and abdominal muscles",
+      "Improves respiratory system",
+      "Improve digestion",
+      "Develop the bone density in the arms, back, and legs",
+      "Stimulates hormones such as thyroxine",
+      "Improve the overall sleep quality"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -718,10 +792,28 @@
     "id": 24,
     "sanskrit_name": "Halasana",
     "english_name": "Plow",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Lie on your back with your arms beside you, palms downwards.",
+      "As you inhale, use your abdominal muscles to lift your feet off the floor, raising your legs vertically at a 90-degree angle.",
+      "Continue to breathe normally and supporting your hips and back with your hands, lift them off the ground.",
+      "Allow your legs to sweep in a 180-degree angle over your head till your toes touch the floor. Your back should be perpendicular to the floor.",
+      "Hold this pose and let your body relax more and more with each steady breath.",
+      "After about a minute (a few seconds for beginners) of resting in this pose, you may gently bring your legs down on exhalation."
+    ],
+    "target_body_parts": ["Abdominal Muscle", "Core", "Spine", "Back", "Neck"],
+    "contraindications": [
+      "Neck Injury",
+      "Pregnancy",
+      "High Blood Pressure Issues",
+      "Diarrhea"
+    ],
+    "benefits": [
+      "Calms the nervous system, reduces stress and fatigue.",
+      "Tones the legs and improves leg flexibility.",
+      "Stimulates the thyroid gland and strengthens the immune system.",
+      "Helps women during menopause.",
+      "Strengthens and opens up the neck, shoulders, abs and back muscles."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -731,10 +823,32 @@
     "id": 25,
     "sanskrit_name": "Parsvottanasana",
     "english_name": "Pyramid",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Stand erect and tall in Mountain Pose (Tadasana).",
+      "Bring the left foot two to three feet behind the right one, and move into the pyramid stance.",
+      "Place your hands behind your back in reverse prayer position.",
+      "Keeping your hips square to the front, exhale; hinging from the hips, bend forward over the right leg.",
+      "As you breathe in, lengthen your spine, and as you breathe out, bring your torso towards the thigh.",
+      "Relax and hold this position for three to five long breaths.",
+      "Gently release the posture, and come back to Tadasana.",
+      "Repeat with the other leg."
+    ],
+    "target_body_parts": [
+      "Core",
+      "Abdominal Muscle",
+      "Back",
+      "Spine",
+      "Hamstrings",
+      "Hips",
+      "Digestive Organs"
+    ],
+    "contraindications": ["Pregnancy", "Shoulder Injury", "Back Injury"],
+    "benefits": [
+      "Helps stretch the hips, legs, and hamstrings",
+      "Improves body posture, and balances the body and mind",
+      "Massages the abdominal organs, and improves digestion",
+      "Calms the mind"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -744,10 +858,26 @@
     "id": 26,
     "sanskrit_name": "Parsva Virabhadrasana",
     "english_name": "Reverse Warrior",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Stand on your mat with hands on the sides.",
+      "Place your left leg forward about 2 – 3 feet with feet pointing straight ahead.",
+      "Slowly bend your left knees so that the thighs make a 90 degrees angle with the fore legs.",
+      "Let the right leg, pointing backwards, maintain an angle of about 45 degrees to the ground.",
+      "Let the right hand rest on the right thighs.",
+      "Raise the left hand upwards and simultaneously arch the spine forward. The chest is opened up and face and gaze is turned upwards. The left palm points straight to the sky.",
+      "Remain in this pose for as long as you are comfortable. This is the final pose for Parsva Virabhadrasana.",
+      "To release the pose, bring down the left hand and straighten the left leg. Bring the two feet together again.",
+      "Rest for few breaths and repeat the same with the right leg forward."
+    ],
+    "target_body_parts": ["Hips", "Arms"],
+    "contraindications": ["Knee Injury"],
+    "benefits": [
+      "Parsva Virabhadrasana calms the mind.",
+      "It brings balance to the body.",
+      "Parsva Virabhadrasana energizes the body.",
+      "It stretches the arms and opens up the hips.",
+      "This asana opens up the chest and develops core strength."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
