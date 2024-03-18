@@ -887,10 +887,32 @@
     "id": 27,
     "sanskrit_name": "Paschimottanasana",
     "english_name": "Seated Forward Bend",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Begin seated with your legs straight in front of you. Flex your feet and press your heels away from you.",
+      "Inhale and sit tall. Exhale and hinge at your hips to lean forward. Lengthen your spine rather than round your back.",
+      "Walk your hands as far forward as your back and hamstrings allow you to comfortably stretch. If you can reach your feet, loosely rest your hands on the outer edges. Keep your feet flexed with your knees and toes pointing  toward the ceiling.",
+      "With each inhalation, lift and lengthen your chest slightly; with each exhalation, release a little more fully into the forward bend. If your hands are resting on your feet, let your elbows bend out to the sides.",
+      "Stay in the pose for 1-3 minutes. To come out, release your feet as you slowly come back to sitting on an inhalation."
+    ],
+    "target_body_parts": [
+      "Legs",
+      "Hip",
+      "Lower Body",
+      "Lower Back",
+      "Shoulders"
+    ],
+    "contraindications": [
+      "Pregnancy",
+      "Hernia",
+      "Lower-back Disorders",
+      "High Blood Pressure Issues",
+      "Glaucoma"
+    ],
+    "benefits": [
+      "Stretches lower back, hamstrings and hips.",
+      "Massages and tones the abdominal and pelvic organs.",
+      "Tones the shoulders."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -900,10 +922,24 @@
     "id": 28,
     "sanskrit_name": "Padmasana",
     "english_name": "Lotus",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Sit on the floor with the legs stretched out straight in front.",
+      "Bend the right knee and grasp the right foot with both hands and place it on top of the  left thigh bringing the heel as close to the navel as possible.",
+      "Bend the left knee and grasp the left foot with both hands and place it on top of the  right thigh bringing the heel as close to the navel as possible.",
+      "Both knees should be on the ground and the soles of the feet are pointed upward. The  spine is held straight but not rigid.",
+      "The position of the legs may be switched after a period of time if the posture becomes  uncomfortable."
+    ],
+    "target_body_parts": ["Hip", "Legs", "Lower Back", ""],
+    "contraindications": ["Sciatica", "Knee Injury", "Ankle Injury"],
+    "benefits": [
+      "It may reduce muscular tension by relieving the tight muscle tissues of the body",
+      "It may help in opening the hips which can lead to decrease in the load and overuse of the spine.",
+      "It may help in lubricating the knees.",
+      "It may tone the abdominal region.",
+      "Improves digestion",
+      "Reduces menstrual discomfort",
+      "Helps pregnant ladies during childbirth"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -913,10 +949,31 @@
     "id": 29,
     "sanskrit_name": "Ardha Matsyendrasana",
     "english_name": "Half Lord of the Fishes",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Sit up with the legs stretched out straight in front of you, keeping the feet together and the spine erect.",
+      "Bend the left leg and place the heal of the left foot beside the right hip (optionally, you can keep the left leg straight).",
+      "Take the right leg over the left knee.",
+      "Place the left hand on the right knee and the right hand behind you.",
+      "Twist the waist, shoulders and neck in this sequence to the right and look over the right shoulder.",
+      "Keep the spine erect.",
+      "Hold and continue with gentle long breaths in and out.",
+      "Breathing out, release the right hand first (the hand behind you), release the waist, then chest,lastly the neck and sit up relaxed yet straight.",
+      "Repeat to the other side.",
+      "Breathing out, come back to the front and relax."
+    ],
+    "target_body_parts": ["Spine", "Abdominal Muscle", "Respiratory Muscles"],
+    "contraindications": [
+      "Hernia",
+      "Peptic Ulcer",
+      "Spinal Disorders",
+      "Pregnancy",
+      "Menstrual Cycle"
+    ],
+    "benefits": [
+      "Makes spine supple.",
+      "Increases the elasticity of the spine.",
+      "Opens the chest and increases the oxygen supply to the lungs."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -924,12 +981,31 @@
   },
   {
     "id": 30,
-    "sanskrit_name": "Salamba Sarvangasana",
+    "sanskrit_name": "Sarvangasana",
     "english_name": "Shoulder Stand",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "From the Corpse Pose, raise your legs up and bring it to 90 degrees and remain here for a few breaths.",
+      "Inhale and raise the leg up higher by placing the arms and on the floor and supporting the lower back with the palms. Exhale completely and take the body higher in the pose.",
+      "Bring the chest close to the face and watch the breathing and as the body exhales stay there and with every inhalation stretch the body upwards putting the shoulder firm on the floor.",
+      "The body stands now on the Shoulders thus giving it the name Shoulderstand Pose or Sarvangasana. Using the abdominal strength stay longer to about 10 breaths and work on keeping the body light and loose."
+    ],
+    "target_body_parts": ["Neck", "Shoulders", "Spine", "Abdominal Muscle"],
+    "contraindications": [
+      "Back Injury",
+      "Spondylitis",
+      "High Blood Pressure Issues",
+      "Pregnancy",
+      "Menstrual Cycle",
+      "Throat or Ear Infection"
+    ],
+    "benefits": [
+      "Stimulates the thyroid and parathyroid glands which in turn balances hormones in both males and females.",
+      "As the flow of blood is reversed, there is increased blood flow to the brain.",
+      "The heart muscles are stretched as the reversed blood flow requires the heart to work harder to pump blood to the extremities.",
+      "Improves digestion and relieves constipation.",
+      " Burns fat around the tummy, buttocks, thighs, and hips.",
+      "Strengthens nervous system and back."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -939,10 +1015,25 @@
     "id": 31,
     "sanskrit_name": "Vasisthasana",
     "english_name": "Side Plank",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Come into Dandasana (Plank pose).",
+      "Slowly shift your weight on the right arm and foot as you swing your left arm and foot on it.",
+      "Rest the left foot on the right foot and let the left arm rest on the hip.",
+      "The right hand should be a little in front of the shoulder and not exactly below it.",
+      "Also, ensure that the palm is pressed firmly against the floor and the arm is not bent.",
+      "As you inhale, slowly raise your left arm till it is perpendicular to the floor with fingertips pointing towards the ceiling.",
+      "Now turn your neck towards the raised arm and gaze at the fingertips for a few breaths",
+      "As you exhale, bring the arm down to rest on the hip.",
+      "Slowly come back into Dandasana and rest for a few breaths.",
+      "Repeat the process on the other side."
+    ],
+    "target_body_parts": ["Arms", "Legs", "Abdominal Muscle"],
+    "contraindications": ["Wrist Injury", "Shoulder Injury", "Elbow Injury"],
+    "benefits": [
+      "Strengthens the arms, wrists and legs.",
+      "Strengthens the abdomen.",
+      "Improves balance."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
