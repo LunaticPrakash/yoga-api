@@ -1042,11 +1042,26 @@
   {
     "id": 32,
     "sanskrit_name": "Salamba Bhujangasana",
-    "english_name": "Sphinx",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "english_name": "Sphinx pose",
+    "procedure": [
+      "Lie on your stomach with your toes flat on the floor and forehead resting on the ground.",
+      "Keep your legs close together, with your feet and heels lightly touching each other.",
+      "Stretch your hands in front of you with palms facing downward and arms touching the ground.",
+      "Taking a deep breath in, slowly lift your head, chest and abdomen while keeping your navel on the floor.",
+      "Pull your torso back and off the floor with support of your arms.",
+      "Keep breathing with awareness, as you curve your spine vertebra by vertebra.",
+      "Ensure that your feet are still close together and head facing straight ahead.",
+      "Breathing out, gently bring down your abdomen, chest and head back to the floor."
+    ],
+    "target_body_parts": ["Spine", "Chest", "Shoulders"],
+    "contraindications": ["Pregnancy", "Wrist Injury", "Spine Injury"],
+    "benefits": [
+      "Strengthens the spine",
+      "Stretches chest and lungs, shoulders, and abdomen",
+      "Firms the buttocks",
+      "Stimulates abdominal organs",
+      "Helps relieve stress"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1055,11 +1070,23 @@
   {
     "id": 33,
     "sanskrit_name": "Hanumanasana",
-    "english_name": "Splits",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "english_name": "Splits/ Monkey Pose",
+    "procedure": [
+      "Start by kneeling on the floor with knees a little apart. Place your right foot forward and raise the inner sole such that only the outer heel touches the floor.",
+      "As you exhale, bend your torso forward and bring your fingertips to touch the floor.",
+      "Slowly, move your left knee backward till the knee and the front of the foot touch the ground. Simultaneously slide your right leg forward till it touches the floor completely.",
+      "Sliding your left foot backward and right foot forward, come into a split position.",
+      "The toes of the right foot should be pointing skywards and the front of the left foot should be touching the ground.",
+      "Raise your arms and join your palms. Stretch your arms and arch your back a little.",
+      "Stay in this position for a couple of breaths before bringing your arms back down.",
+      "To come out of this posture, shift the weight of the body on the hands by pressing them on the floor. Slowly slide your left and right feet back to the initial position before repeating the pose with the left leg in front and right leg behind."
+    ],
+    "target_body_parts": ["Lower Body", "Hamstrings", "Glutes"],
+    "contraindications": ["Hamstring Injury"],
+    "benefits": [
+      "Stretches the hamstrings, glutes, groins, and quadriceps",
+      "Improves core strength and body awareness"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1068,11 +1095,23 @@
   {
     "id": 34,
     "sanskrit_name": "Malasana",
-    "english_name": "Squat",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "english_name": "Squat/Garland Pose",
+    "procedure": [
+      "Come to stand with your feet about mat's width apart.",
+      "Bend the knees and lower your butt toward the floor to come into a squat.",
+      "It's natural for your toes to want to turn out and that's OK, but don't overdo it. Eventually, you're working toward keeping the feet closer to parallel.",
+      "Take your upper arms inside your knees and bend the elbows to bring the palms together into anjali mudra (prayer position).",
+      "With hands to your heart center in anjali mudra, see if you can allow your thumbs to touch your sternum as if to help keep the chest lifted. Continue pressing upper arms into thighs and thighs into upper arm to stay engaged.",
+      "Keep your spine straight, your butt moving toward the floor, and your shoulders relaxed away from your ears.",
+      "Stay here for five breaths, then straighten the legs to come out.",
+      "Try repeating the pose three times to take full advantage of getting warmed up. If you are practicing at home, it's fine to do some other poses in between your squats."
+    ],
+    "target_body_parts": ["Hamstrings", "Glutes", "Groins", "Quadriceps"],
+    "contraindications": ["Knee Injury", "Lower-back Injury"],
+    "benefits": [
+      "Stretches the ankles, groins and back torso",
+      "Tones the belly"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1082,10 +1121,26 @@
     "id": 35,
     "sanskrit_name": "Uttanasana",
     "english_name": "Standing Forward Bend",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Start in Tadasana (Mountain Pose), stand with feet hip-width apart, arms by your sides, and weight evenly distributed on both feet.",
+      "Inhale, lift your arms overhead, and extend the spine and reach up through the fingertips",
+      "Exhale, hinge at the hips and bend forward from your waist, keeping the spine long.",
+      "Bring your hands to the floor and place them beside or slightly in front of your feet.",
+      "Relax the head and neck, allow gravity to pull the head down, and maintain a gentle bend in the knees if needed.",
+      "Hold for 30 seconds to a minute and breathe deeply, feeling the stretch along the back of the legs and spine.",
+      "To release, inhale and lift the torso and return to the standing position with a flat back."
+    ],
+    "target_body_parts": ["Hamstrings", "Calves"],
+    "contraindications": [
+      "Back Injury",
+      "Pregnancy",
+      "High Blood Pressure Issues"
+    ],
+    "benefits": [
+      "Stretches and lengthens the hamstrings and calves.",
+      "Relaxing and stress-relieving pose",
+      "Help relieve insomnia"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1108,10 +1163,36 @@
     "id": 37,
     "sanskrit_name": "Upavistha Konasana",
     "english_name": "Side Splits",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Start with Staff pose and sit upright on top of your pelvic bones.",
+      "Sit with your legs extended and your arms relaxed at your sides in the Staff pose. Inhale and exhale for a few seconds here.",
+      "Now, spread your legs slowly, as wide as possible, and place your hands flat on the mat.",
+      "Inhale deep, and lengthen your spine all the way up to the crown of your head. Exhale, bend at your waist, and press down through the backs of your legs.",
+      "Walk your hands forward as far as you can go. Keep your back straight and your spine parallel to the ground.",
+      "Hold this position for a few deep breaths and then gently exit the pose by getting up in the staff pose."
+    ],
+    "target_body_parts": [
+      "Lower Back",
+      "Lower Body",
+      "Hamstrings",
+      "Glutes",
+      "Spine",
+      "Legs",
+      "Abdominal Muscle"
+    ],
+    "contraindications": [
+      "Spondylitis",
+      "Slipped disc",
+      "Pregnant",
+      "Lower-back Injury"
+    ],
+    "benefits": [
+      "Improves knee and hip joint mobility.",
+      "Improves digestion and sexual health.",
+      "Stretches the spine and shoulders. ",
+      "Strengthens the legs, ankles, hamstrings, glutes, and spine. ",
+      "Burns excess fat around the thighs and core. "
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1121,10 +1202,27 @@
     "id": 38,
     "sanskrit_name": "Vrksasana",
     "english_name": "Tree",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Take a moment to feel both your feet root into the floor, your weight distributed equally on all four corners of each foot.",
+      "Begin to shift your weight into your right foot, lifting your left foot off the floor. ",
+      "Keep your right leg straight but don't lock the knee.",
+      "Bend your left knee and bring the sole of your left foot high onto your inner right thigh. ",
+      "Press your foot into your thigh and your thigh back into your foot with equal pressure.This will help you keep both hips squared toward the front so your right hip doesn't jut out.",
+      "Focus your gaze (Drishti) on something that doesn't move to help you keep your balance",
+      "Take 5 to 10 breaths, then lower your left foot to the floor and do the other side."
+    ],
+    "target_body_parts": ["Entire Body", "Legs"],
+    "contraindications": ["Knee Injury", "Migraine headaches"],
+    "benefits": [
+      "Increases concentration",
+      "Improves physical balance and mental resilience ",
+      "Helps relieve sciatica",
+      "Strengthens the legs",
+      "Opens the hips",
+      "Boosts energy",
+      "Strengthens your core",
+      "Improves your posture and alignment"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
