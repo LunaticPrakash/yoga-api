@@ -1232,10 +1232,37 @@
     "id": 39,
     "sanskrit_name": "Trikonasana",
     "english_name": "Triangle",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Stand straight. Separate your feet comfortably wide apart (about 31/2 to 4 feet).",
+      "Turn your right foot out 90 degrees and left foot in by 15 degrees.",
+      ",Now align the center of your right heel with the center of your arch of left foot.",
+      ",Ensure that your feet are pressing the ground and the weight of your body is equally balanced on both the feet.",
+      ",Inhale deeply and as you exhale, bend your body to the right, downward from the hips, keeping the waist straight, allowing your left hand to come up in the air while your right hand comes down towards floor. Keep both arms in straight line.",
+      ",Rest your right hand on your shin, ankle, or the floor outside your right foot, whatever is possible without distorting the sides of the waist. Stretch your left arm toward the ceiling, in line with the tops of your shoulders. Keep your head in a neutral position or turn it to the left, eyes gazing softly at the left palm.",
+      "Stretch maximum and be steady. Keep taking in long deep breaths. With each exhalation, relax the body more and more. Just be with the body and the breath.",
+      "As you inhale, come up, bring your arms down to your sides, and straighten your feet.",
+      "Repeat the same on the other side."
+    ],
+    "target_body_parts": [
+      "Legs",
+      "Spine",
+      "Abdominal Muscle",
+      "Hamstrings",
+      "Hips"
+    ],
+    "contraindications": [
+      "Migraine",
+      "Diarrhea",
+      "Low or high blood pressure issue",
+      "Neck Injury",
+      "Back Injury"
+    ],
+    "benefits": [
+      "It strengthens the legs, knees, ankles, arms and chest",
+      "It stretches and opens the hips, groins, hamstrings, calves, shoulders, chest and spine",
+      "It increases mental and physical equilibrium and improves digestion",
+      "It reduces anxiety, stress, back pain and sciatica"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1245,10 +1272,26 @@
     "id": 40,
     "sanskrit_name": "Urdhva Mukha Svsnssana",
     "english_name": "Upward-Facing Dog",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "Lie flat on your belly with the top of your feet facing downwards. Your arms should be stretched down the length of the body.",
+      "Bend your elbows and spread your palms beside the lowest rib.",
+      "As you inhale, press your palms firmly on the mat and slowly lift your torso, hips and knees off the mat. The entire weight of the body should be resting on the palms and top of the feet.",
+      "You may look straight ahead or tilt your head slightly backwards.",
+      "Ensure that your wrists are in line with your shoulders and the neck is not strained. Stay in this pose for a couple of breaths.",
+      "As you exhale, slowly lower your knees, hips and torso back on the mat."
+    ],
+    "target_body_parts": ["Spine", "Abdominal Muscle", "Lower Back"],
+    "contraindications": [
+      "Carpel Tunnel Syndrome",
+      "Back Injury",
+      "Spine Injury",
+      "Pregnancy"
+    ],
+    "benefits": [
+      "Stretches and strengthens the back, thus relieving the body of lower back ache.",
+      "Most of the body weight is borne by the arms and wrists, thus strengthening them.",
+      "This yoga pose helps improve the body posture and also stimulates the abdominal organs."
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
@@ -1256,64 +1299,37 @@
   },
   {
     "id": 41,
-    "sanskrit_name": "Virabhadrasana One",
-    "english_name": "Warrior One",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
-    "created_at": "",
-    "updated_at": "",
-    "image_url": "",
-    "yt_videos": []
-  },
-  {
-    "id": 42,
-    "sanskrit_name": "Virabhadrasana Two",
-    "english_name": "Warrior Two",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
-    "created_at": "",
-    "updated_at": "",
-    "image_url": "",
-    "yt_videos": []
-  },
-  {
-    "id": 43,
-    "sanskrit_name": "Virabhadrasana Three",
-    "english_name": "Warrior Three",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
-    "created_at": "",
-    "updated_at": "",
-    "image_url": "",
-    "yt_videos": []
-  },
-  {
-    "id": 44,
     "sanskrit_name": "Urdhva Dhanurasana",
     "english_name": "Wheel",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
-    "created_at": "",
-    "updated_at": "",
-    "image_url": "",
-    "yt_videos": []
-  },
-  {
-    "id": 45,
-    "sanskrit_name": "Camatkarasana",
-    "english_name": "Wild Thing",
-    "procedure": [],
-    "target_body_parts": [],
-    "contraindications": [],
-    "benefits": [],
+    "procedure": [
+      "First, lie flat on your back on a mat.",
+      "Bend and raise your elbows over your head and place your palms under your shoulders.",
+      "Ensure your fingers are pointing towards your feet.",
+      "Next, bend and raise your knees while bringing the feet nearer until they touch the hips.",
+      "While resting the crown/top of your head on the floor, raise the trunk.",
+      "Next, lift the trunk and head so that the back is arched and the weight of the body is now on the palms and soles.",
+      "Stretch your arms until the elbows are straight.",
+      "For a better stretch, breathe out and try lifting the heels off the ground.",
+      "With normal breathing, try to hold this position for about 30-60 seconds or however, is long is comfortable.",
+      "Breathe out, return to the original position and relax your body."
+    ],
+    "target_body_parts": [
+      "Arms",
+      "Shoulders",
+      "Legs",
+      "Spine",
+      "Respiratory Muscles"
+    ],
+    "contraindications": [
+      "Carpel Tunnel Syndrome",
+      "Back Injury",
+      "Spine Injury",
+      "Pregnancy"
+    ],
+    "benefits": [
+      "Opens the chest and increases the oxygen supply to the lungs.",
+      "It also massages the kidneys and stimulates the adrenal glands"
+    ],
     "created_at": "",
     "updated_at": "",
     "image_url": "",
